@@ -5,3 +5,4 @@ git
 __pycache__
 *.tmp
 dlsman.spec
+.python-version
