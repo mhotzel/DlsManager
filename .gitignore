@@ -1,0 +1,7 @@
+venv
+build
+dist
+git
+__pycache__
+*.tmp
+dlsman.spec
